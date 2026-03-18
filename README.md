@@ -1,12 +1,12 @@
 # ⚡ Elvita Studio
 
-🚀 We build high-performance Telegram Mini Apps, bots and business automation systems.
+### 🚀 We build high-performance Telegram Mini Apps, bots and business automation systems.
 
 ---
 
 ## 🇷🇺 RU
 
-Мы создаем высокопроизводительные решения для бизнеса: от умных Telegram-ботов до сложных Mini Apps.
+### 🚀 Мы создаем высокопроизводительные решения для бизнеса: от умных Telegram-ботов до сложных Mini Apps.
 
 ---
 
