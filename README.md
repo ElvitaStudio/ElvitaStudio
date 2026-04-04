@@ -70,8 +70,30 @@
 
 ---
 
-## 📬 Contact
+### 🔗 Контакты & Ресурсы / Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ElvitaStudio)
+<p align="left">
+  <a href="https://botapps.pro">
+    <img src="https://img.shields.io/badge/Website-botapps.pro-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://telebots.pro">
+    <img src="https://img.shields.io/badge/Landing-telebots.pro-28a745?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
 
-💬 Open to freelance & remote collaboration
+<p align="left">
+  <a href="https://t.me/ElvitaStudio">
+    <img src="https://img.shields.io/badge/Direct_Telegram-ElvitaStudio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/CodeFlow_Lab">
+    <img src="https://img.shields.io/badge/Channel-CodeFlow_Lab-26A69A?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/elvitastudio_bot">
+    <img src="https://img.shields.io/badge/Bot-ElvitaStudio-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/elvitstudio">
+    <img src="https://img.shields.io/badge/Instagram-@elvitstudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+💬 **Open to freelance & remote collaboration**
